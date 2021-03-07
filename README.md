@@ -2,4 +2,4 @@
 
 ## TEST
 
-<img src="https://github.com/I-Ming/ming-project/blob/master/maven-assemble-plugin.jpg" with="600" heigh="400" alt="一張圖片">
+<img src="https://github.com/I-Ming/ming-project/blob/master/maven-assemble-plugin.jpg" with="300" heigh="200" alt="一張圖片">
